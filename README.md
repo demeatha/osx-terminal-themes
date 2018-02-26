@@ -1,6 +1,6 @@
 # terminal-themes
 
-# Color schemes for various Mac OS X and Linux terminal emulators
+# Color schemes for Mac OS X and Linux terminal emulators
 
 This is a set of color schemes  (ported from [@AlessandroYorba][1]). 
 Screenshots are below and in the `screenshots/` directory of this repo.
@@ -37,7 +37,7 @@ Screenshots are below and in the `screenshots/` directory of this repo.
 
 ### Linux (X-Client)
 
-- Copy Xresources file into .Xresources
+- Copy [scheme-name].Xresources file into .Xresources
 
 ## Tools
 
